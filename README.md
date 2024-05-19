@@ -19,5 +19,11 @@ For more information on how to this works with other frontends/backends, head ov
 
 # Getting started
 
-> npm install, npm start, etc.
+Based on Python 3.12
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install pip-tools
+```
 
